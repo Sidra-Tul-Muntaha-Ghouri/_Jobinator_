@@ -6,5 +6,6 @@ PyPDF2
 spacy
 streamlit
 streamlit-chat
+streamlit_modal
 matplotlib
 wordcloud
