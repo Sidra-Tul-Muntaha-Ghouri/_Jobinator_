@@ -5,5 +5,6 @@ scikit-learn
 PyPDF2
 spacy
 streamlit
+streamlit-chat
 matplotlib
 wordcloud
