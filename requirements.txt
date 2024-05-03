@@ -9,3 +9,4 @@ streamlit-chat
 streamlit_modal
 matplotlib
 wordcloud
+en_core_web_sm
